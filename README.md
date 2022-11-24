@@ -1,6 +1,6 @@
 # GeckoGifs 
 
-This is my project repository for Geckosoft Frontend Application Challenge made with React v18 + Vite. 
+This is my project for Geckosoft Frontend Application Challenge made with React v18 + Vite. 
 
 In my opinion, the React library together with the Vite build tool become a powerful team that offers a friendly, fast and efficient development experience.
 
