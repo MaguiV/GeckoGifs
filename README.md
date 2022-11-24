@@ -58,13 +58,13 @@ The node_modules folder contains all the necessary dependencies for the applicat
 
 All of the configured dependencies in package.json will be downloaded into the node_modules folder once the `yarn install` command is run.
 
-#### src folder
+### src folder
 This folder contains the components folder with 4 files: AddCategory.jsx, GifGrid.jsx, GifItem.jsx and index.js.
 
-#### GeckoGifs.jsx and main.jsx
+### GeckoGifs.jsx and main.jsx
 The GeckoGifs.jsx file is the base component that serves as a container for all of the other components used in the application.
 
 The main.jsx file is where I target the root id from the index.html and render all the components used in the application.
 
-#### styles.css
+### styles.css
 These files contain all of the CSS styles used in the program.
